@@ -54,18 +54,27 @@ border-radius: 10px;
 .container{
 width: 700px;
 }
+.banner{
+	width: 700px;
+	}
 }
 
 @media (max-width: 720px){
 .container{
 width: 500px;
 }
+.banner{
+	width: 500px;
+	}
 }
 
 @media (max-width: 540px){
 .container {
 	width: 300px;
 }
+.banner{
+	width: 300px;
+	}
 }
 
 
