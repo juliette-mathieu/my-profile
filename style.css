@@ -10,7 +10,7 @@ body
 }
 h1, h2, h3, h4, h5,h6 {
 	font-family: texturina;
-	align-content: center;
+	text-align: center;
 }
 h1{
 	color: #f05454;
@@ -22,11 +22,11 @@ h2, h3, h4, h5, h6{
 }
 element{
 	color: #30475e;
-	align-content: center;
+	text-align: center;
 }
 ul{
 	color: #30475e;
-	align-content: center;
+	text-align: center;
 }
 .center {
 	display: block;
@@ -36,7 +36,7 @@ ul{
 
 a{
 	color: #f05454;
-	align-content: center;
+	text-align: center;
 }
 
  #presentation{
