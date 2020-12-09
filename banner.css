@@ -6,9 +6,10 @@ background-repeat: no-repeat;
 height: 300px;
 margin-top: 50px; 
 text-align: center;
+padding-top: 50px;
 }
 
 .banner .container h1, a, {
 color: #f05454;
-padding-top: 20px;
+
 }
