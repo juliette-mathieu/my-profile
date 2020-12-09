@@ -6,11 +6,11 @@ body
 	background-color: #e8e8e8;
 	font-family: Texturina;
 	font-size: 20px;
-	align-content: center;
+	
 }
 h1, h2, h3, h4, h5,h6 {
 	font-family: texturina;
-
+	align-content: center;
 }
 h1{
 	color: #f05454;
@@ -22,9 +22,11 @@ h2, h3, h4, h5, h6{
 }
 element{
 	color: #30475e;
+	align-content: center;
 }
 ul{
 	color: #30475e;
+	align-content: center;
 }
 .center {
 	display: block;
@@ -34,6 +36,7 @@ ul{
 
 a{
 	color: #f05454;
+	align-content: center;
 }
 
  #presentation{
